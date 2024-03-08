@@ -10,4 +10,4 @@ This is a hackathon project hosted by Upskill Mafia.
 
 - Arijit (@arijitdn)
 - Prathmesh (@prathmeshladkat)
-- Avadhoot (@Avadhoot0704)
+- Avadhoot (@avadhoot0704)
