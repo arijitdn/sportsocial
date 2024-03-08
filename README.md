@@ -9,5 +9,5 @@ This is a hackathon project hosted by Upskill Mafia.
 ## Team Members:
 
 - Arijit (@arijitdn)
-- Prathmesh (@prathmesh)
-- Avadhoot (@avadhoot)
+- Prathmesh (@prathmeshladkat)
+- Avadhoot (@Avadhoot0704)
